@@ -15,7 +15,7 @@ This repository contains my test plan, test case, and bug reports on an e-commer
 ## Tools used
 **Github** (For documentation)  
 **Excel** (For writing test plan and test case)  
-**Word** (For bug reports)  
+**Word** (For writing bug reports)  
 
 ## Contact
 Email: cha.calingasan@gmail.com
