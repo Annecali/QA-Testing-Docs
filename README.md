@@ -10,9 +10,9 @@ This repository contains my test plan, test case, and bug reports on an e-commer
              (https://github.com/Annecali/QA-Testing-Docs/blob/main/Bug%20report_TC10-01%20(Spelling%20check).pdf)
 
 ## Tools used
-Github (For documentation)
-Excel (For writing test plan and test case)
-Word (For bug reports)
+Github (For documentation)  
+Excel (For writing test plan and test case)  
+Word (For bug reports)  
 
 ## Contact
 Email: cha.calingasan@gmail.com
