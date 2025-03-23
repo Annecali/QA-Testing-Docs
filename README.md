@@ -17,11 +17,11 @@ This repository contains my test plans, test cases, and bug reports on several w
 (https://github.com/Annecali/QA-Testing-Docs/blob/main/Bug%20report_Performance_TC22.pdf)
 
 ## Tools used
+**Postman** (For API testing)  
+**Lighthouse** (For page performance testing)  
 **Github** (For documentation)  
 **Excel** (For writing test plan and test case)  
 **Word** (For writing bug reports)  
-**Postman** (For API testing)  
-**Lighthouse** (For page performance testing)  
 
 
 
