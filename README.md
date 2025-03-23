@@ -1,7 +1,7 @@
 # QA-Testing-Docs
 
 ## About
-This repository contains my test plan, test case, and bug reports on several websites.
+This repository contains my test plans, test cases, and bug reports on several websites.
 
 ## 1. ParaBank (Dummy Banking Website)
 
