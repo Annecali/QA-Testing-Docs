@@ -25,7 +25,7 @@ This repository contains my test plans, test cases, and bug reports on several w
 
 
 
-## 2. Sauce Demo (Dummy Ecommerce Website)
+## 2. Sauce Demo (Dummy E-commerce Website)
 ## Project Documentation
 [Test Plan]  
 (https://github.com/Annecali/QA-Testing-Docs/blob/main/Test%20Plan_Sauce%20Demo%20Ecommerce.xlsx)  
