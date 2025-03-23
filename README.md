@@ -4,6 +4,26 @@
 This repository contains my test plans, test cases, and bug reports on several websites.
 
 ## 1. ParaBank (Dummy Banking Website)
+## Project Documentation
+[Test Plan]  
+(https://github.com/Annecali/QA-Testing-Docs/blob/main/Test%20Plan_ParaBank.xlsx)  
+[Test Case]  
+(https://github.com/Annecali/QA-Testing-Docs/blob/main/Test%20case_ParaBank.xlsx)  
+[Bug report]  
+(https://github.com/Annecali/QA-Testing-Docs/blob/main/Bug%20report_Registration_TC01.pdf)  
+(https://github.com/Annecali/QA-Testing-Docs/blob/main/Bug%20report_Login_TC10.pdf)  
+(https://github.com/Annecali/QA-Testing-Docs/blob/main/Bug%20report_Homepage_TC17.pdf)  
+(https://github.com/Annecali/QA-Testing-Docs/blob/main/Bug%20report_Performance_TC21.pdf)  
+(https://github.com/Annecali/QA-Testing-Docs/blob/main/Bug%20report_Performance_TC22.pdf)
+
+## Tools used
+**Github** (For documentation)  
+**Excel** (For writing test plan and test case)  
+**Word** (For writing bug reports)  
+**Postman** (For API testing)  
+**Lighthouse** (For page performance testing)  
+
+
 
 ## 2. Sauce Demo (Dummy Ecommerce Website)
 ## Project Documentation
