@@ -1,8 +1,11 @@
 # QA-Testing-Docs
 
 ## About
-This repository contains my test plan, test case, and bug reports on an e-commerce website.
+This repository contains my test plan, test case, and bug reports on several websites.
 
+## ParaBank (Dummy Banking Website)
+
+## Sauce Demo (Dummy Ecommerce Website)
 ## Project Documentation
 [Test Plan]  
 (https://github.com/Annecali/QA-Testing-Docs/blob/main/Test%20Plan_Sauce%20Demo%20Ecommerce.xlsx)  
